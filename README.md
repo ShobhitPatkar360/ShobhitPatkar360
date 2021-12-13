@@ -4,6 +4,14 @@
 - 💞️ I’m looking to collaborate on App Development using React, Angular, Node.js
 - 📫 How to reach me, email on cs1938@global.org.in
 
+<h1>Learning github</h1>
+## Hello 👋 Shobhit Kumar Patkar
+
+#### Who is Shobhit Patkar ?
+
+Shobhit is an intersting Guy.
+
+
 <!---
 ShobhitPatkar360/ShobhitPatkar360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
